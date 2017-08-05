@@ -1,0 +1,13 @@
+name: Megasmite
+main: me.spoodytheone.megasmite
+version: 1.0
+commands:
+   megasmite:
+      description: smite x100!
+      usage: /<command>
+      aliases: [ms]
+      permission: Megasmite.megasmite
+      
+permissions:
+    megasmite:
+        default: op
